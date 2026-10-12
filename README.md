@@ -1,89 +1,169 @@
-PRIVACY POLICY
+# PRIVACY POLICY
+**TinyPlay Games**
 
-TinyPlay Games 
+**Effective Date:** October 12, 2026  
+**Last Updated:** October 12, 2026
 
-Effective Date: September 28, 2026
-Last Updated: September 28, 2026
+## 1. INTRODUCTION
 
-This Privacy Policy describes how Tinny Play Games ("we," "us," or "our") collects, uses, and shares information about you when you use our games(the "Service"), available at TinyPlay Games on Playstore.
+Welcome to TinyPlay Games.
 
-By using the Service, you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy explains how TinyPlay Games ("we," "us," or "our") handles information when you use our mobile games, including **Fruit Merge**, available on the Google Play Store.
 
-─────────────────────────────────────────────
+We respect your privacy and aim to collect only the information necessary to provide our games and their features.
 
-1. INFORMATION WE COLLECT
+## 2. INFORMATION WE COLLECT
 
-We may collect the following categories of information:
+### Player Profile and Leaderboard Information
 
-   • Personal identification information (name, email address, and similar contact details) that you voluntarily provide when registering, contacting us, or using our Service.
+Our games may allow players to create a profile and participate in an online leaderboard.
 
-   • Account credentials including usernames, hashed passwords, and account preferences stored securely to provide you with access to your account.
+For these features, we collect and process only the following gameplay-related information:
 
-   • Advertising and tracking data, including information used to deliver targeted advertisements based on your browsing behavior and interests across websites.
+- **Username:** The player-selected username used to identify the player on the leaderboard.
+- **Game Score:** Scores earned during gameplay for ranking purposes.
+- **Leaderboard Ranking:** The player's position on the leaderboard, calculated from game scores.
+- **Selected Avatar:** If applicable, the avatar chosen by the player for their game profile.
 
-─────────────────────────────────────────────
+Usernames, selected avatars, scores, and rankings may be visible to other players through the public leaderboard.
 
-2. HOW WE USE YOUR INFORMATION
+Players should avoid including sensitive personal information in their usernames.
 
-We use the information we collect for the following purposes:
+### Personal Information We Do Not Directly Request
 
-   • To provide, operate, and maintain the Service
-   • To improve, personalize, and expand the Service
-   • To communicate with you, including responding to inquiries and sending important notices
-   • To comply with legal obligations and enforce our policies
-   • To deliver relevant advertisements and measure their effectiveness
-   • To manage your account and provide customer support
+TinyPlay Games does not directly request the following information to use its basic gameplay or leaderboard features:
 
-─────────────────────────────────────────────
+- Real names
+- Email addresses
+- Phone numbers
+- Home addresses
+- Passwords
+- Payment card or banking information
+- Precise geographical location
 
-3. SHARING YOUR INFORMATION
+Players may contact us voluntarily by email, in which case we will receive the information they choose to provide.
 
-We may share your information with third parties in the following circumstances:
+### Advertising and Automatically Collected Information
 
-   • Advertising Partners: We work with advertising partners, such as Meta (Facebook Pixel), to deliver targeted advertising. These partners use tracking technologies to collect information about your activity.
+Our games may display advertisements provided by Google AdMob.
 
-   • Legal Requirements: We may disclose information if required by law, court order, or governmental authority.
+Although TinyPlay Games does not directly request additional personal information for gameplay, third-party advertising services may automatically collect certain technical information, including:
 
-   • Business Transfers: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the acquiring entity.
+- Device identifiers and advertising identifiers
+- IP addresses
+- Advertising interactions
+- App performance and diagnostic information
+- Information necessary for advertising, measurement, and fraud prevention
 
-─────────────────────────────────────────────
+The collection and processing of this information are governed by the relevant third-party provider's privacy practices.
 
-4. DATA SECURITY
+## 3. HOW WE USE INFORMATION
 
-We implement appropriate technical and organizational security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. These measures include:
+We use player profile and gameplay information only to:
 
-   • Encryption of data in transit using TLS/SSL protocols
-   • Secure storage with access controls and authentication
-   • Hashed and salted password storage
+- Display player-selected usernames and avatars.
+- Record game scores.
+- Calculate and display leaderboard rankings.
+- Maintain the functionality of profiles and leaderboards.
+- Respond to player support requests.
 
-However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+We do not use player-selected usernames for unrelated marketing purposes.
 
-─────────────────────────────────────────────
+Advertising providers may process technical information to serve advertisements, measure their effectiveness, and protect against fraudulent activity.
 
-5. DATA RETENTION
+## 4. LEADERBOARD AND PUBLIC VISIBILITY
 
-We retain your information for as long as necessary to fulfill the purposes described in this policy, unless a longer retention period is required or permitted by law. Account information is retained for the duration of your account's existence. You may request deletion of your account at any time. When information is no longer needed, we securely delete or anonymize it.
+Our games may include online leaderboards that display player achievements.
 
-─────────────────────────────────────────────
+When players participate in a leaderboard, the following information may be visible to other players:
 
-6. CHILDREN'S PRIVACY
+- Their selected username
+- Their selected avatar, if applicable
+- Their game score
+- Their leaderboard ranking
 
-Our Service is not directed at children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at irhanadeem015@gmail.com. We will take steps to remove such information from our servers.
+We do not intentionally display players' real names, email addresses, phone numbers, or other sensitive personal information on the leaderboard.
 
-─────────────────────────────────────────────
+Players are responsible for choosing usernames that do not reveal private information.
 
-7. CONTACT US
+## 5. THIRD-PARTY SERVICES
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+Our games may use third-party services, including Google AdMob, to provide advertising functionality.
 
-   Tinny Play Games
-   Email: irhanadeem015@gmail.com
-   Country: Pakistan
+These services may process information according to their own privacy policies.
 
-We will respond to your inquiry within a reasonable time frame.
+For more information about Google's privacy practices, please visit:
 
-─────────────────────────────────────────────
+https://policies.google.com/privacy
 
-8. CHANGES TO THIS PRIVACY POLICY
+https://policies.google.com/technologies/ads
 
-We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes. Changes are effective when they are posted on this page.
+We do not sell player-selected usernames or leaderboard data to third parties.
+
+Information necessary for providing leaderboard functionality may be processed by the service used to operate the leaderboard.
+
+We encourage users to review the privacy policies of any applicable third-party services.
+
+## 6. DATA STORAGE AND SECURITY
+
+We take reasonable measures to protect the player information used for profile and leaderboard functionality.
+
+We aim to limit the collection and storage of information to what is necessary for operating these features.
+
+However, no electronic storage or internet transmission method can be guaranteed to be completely secure.
+
+## 7. DATA RETENTION AND DELETION
+
+Player usernames, avatars, scores, and leaderboard information may be retained for as long as necessary to maintain profile and leaderboard functionality.
+
+Players may request the removal of their username and associated leaderboard information by contacting us at:
+
+**irhanadeem015@gmail.com**
+
+Please provide the relevant in-game username and sufficient information to help us identify the leaderboard entry.
+
+We will review and process valid deletion requests within a reasonable period, subject to technical and legal requirements.
+
+Information processed independently by third-party providers may be subject to their own retention and deletion policies.
+
+## 8. CHILDREN'S PRIVACY
+
+Our games are designed for general entertainment.
+
+We do not knowingly request personal contact information from children under 13 through our gameplay or leaderboard features.
+
+Players are encouraged to choose usernames that do not contain real names, contact information, or other private details.
+
+Parents or guardians who believe their child has disclosed personal information through a username or other game feature may contact us to request its review or removal.
+
+We will review such requests and take appropriate action.
+
+Advertising and other third-party services may have additional requirements for children's privacy, which we seek to follow where applicable.
+
+## 9. YOUR PRIVACY CHOICES
+
+Players may:
+
+- Choose a username that does not reveal their identity.
+- Select an available profile avatar, where supported.
+- Contact us to request removal of their leaderboard information.
+- Adjust applicable advertising privacy preferences through their device settings or available advertising controls.
+
+## 10. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy periodically to reflect changes to our games, features, third-party services, or applicable requirements.
+
+Any updates will be posted on this page with a revised "Last Updated" date.
+
+We encourage players to review this policy occasionally.
+
+## 11. CONTACT US
+
+If you have questions, concerns, or requests relating to this Privacy Policy, please contact:
+
+**Developer:** TinyPlay Games  
+**Game:** Fruit Merge  
+**Email:** irhanadeem015@gmail.com  
+**Country:** Pakistan
+
+We will respond to privacy-related inquiries within a reasonable time frame.
